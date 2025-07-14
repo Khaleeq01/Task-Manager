@@ -4,15 +4,11 @@ A simple, lightweight task management application built with React.
 
 This task manager allows you to easily create, edit, and delete tasks, as well as mark them as completed or incomplete. You can filter tasks by category or search for specific keywords to find the tasks you need. The app is designed to be easy to use and customizable, so you can tailor it to your specific needs.
 
-# Welcome to life boy!
-https://my-task-manager-react.netlify.app/
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
@@ -33,6 +29,3 @@ This app was built with:
 =>React
 =>CSS
 
-# Contributing
-
-If you'd like to contribute to this project, feel free to submit a pull request. Please make sure your code follows the existing coding style and includes tests
